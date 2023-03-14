@@ -5,7 +5,7 @@
 /**
  * argstostr - convert the params passed to the program to string
  * @ac: This is an argument count
- @ @av: This is an argument vector
+ * @av: This is an argument vector
  *
  * Return: ...
  */
